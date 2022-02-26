@@ -11,10 +11,12 @@ Now, i created an alternative to shareit called the Transfer app
 The app is open source, 100% offline and free for anyone to use without any ads
 
 ## The app can be downloaded from this apk :point_down:
-Transfer apk (10 mb)
+[Transfer apk (10 mb)](/transfer.apk)
+
 
 ## The aia can be found here :point_down:
-Transfer aia (1 mb)
+[Transfer aia (1 mb))](/transfer.aia)
+
 
 ## Features:
 
